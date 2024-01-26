@@ -4,8 +4,8 @@ jobs:
     print-hello-world:
 		runs-on: ubuntu-latest
 		steps:
-			- run: echo first git action written
-			- run: echo second push method
+			- run: echo "first git action written"
+			- run: echo "second push method"
 
     
 
