@@ -1,5 +1,5 @@
 name: first git action written
-on: [push]
+on: push
 jobs:
     print-hello-world:
 		runs-on: ubuntu-latest
